@@ -1,0 +1,3 @@
+Energy data:
+% households that have access to electricity in Rwanda
+https://prod.open-data.risa.gov.rw/dataset/distribution-of-the-private-households-by-main-mode-of-sewage-disposal-by-province-and-district/resource/e3b5ec58-dfb6-4aa4-b6a5-d8339cb6a07b
