@@ -1,3 +1,57 @@
+**Opportunity for solar and wind
+
+Solar radiation measurement data 
+Data for solar radiation for a range of West African countries
+https://datacatalog.worldbank.org/search/dataset/0062687/Mali---Solar-Radiation-Measurement-Data
+
+Wind data in Bangladesh
+Also available for a range of countries
+https://datacatalog.worldbank.org/search/dataset/0037858/Bangladesh---Wind-Measurement-Data
+
+Global wind mast locations
+https://datacatalog.worldbank.org/search/dataset/0037900/World---Wind-Masts-Inventory
+
+Global solar station locations
+https://datacatalog.worldbank.org/search/dataset/0037895/World---Solar-Stations-Inventory
+
+Global irradiation for optimally tilted surfaces data
+https://datacatalog.worldbank.org/search/dataset/0059841/World---Global-Irradiation-for-Optimally-Tilted-Surfaces---GTI--GIS-Data---Global-Solar-Atlas-
+
+Global wind speed and power density GIS data
+https://datacatalog.worldbank.org/search/dataset/0038477/S-o-Tom--and-Pr-ncipe---Multi-Tier-Framework--MTF--Survey
+
+Input parameters for the Model for Electricty Technology Assessment (META) Technology
+https://datacatalog.worldbank.org/search/dataset/0038693/META-tool--Inputs-Generation-Technology--Projected-Costs
+
+Wind speed and wind power potential maps 
+https://datacatalog.worldbank.org/search/dataset/0039344/Indonesia---Wind-Speed-and-Wind-Power-Potential-Maps
+
+
+**Power grid
+Kenya power station locations:
+Location of all kenyan power stations - similar available for some other countries
+https://datacatalog.worldbank.org/search/dataset/0038099/Kenya---Power-Stations
+
+Kenya mini grids/ off grid information:
+There is a lot of available information about the electricity grid in kenya
+https://datacatalog.worldbank.org/search/dataset/0038041/Kenya---Overview-of-Off-grid-Electricity-Service-Areas
+
+
+
+
+
+**Current status of access to electricity
 Energy data:
 % households that have access to electricity in Rwanda
 https://prod.open-data.risa.gov.rw/dataset/distribution-of-the-private-households-by-main-mode-of-sewage-disposal-by-province-and-district/resource/e3b5ec58-dfb6-4aa4-b6a5-d8339cb6a07b
+
+Multi tier framework (MTF) survey
+Global baseline survey on household access to electricity and clean cooking.  Available for a range of countries
+https://datacatalog.worldbank.org/search/dataset/0038477/S-o-Tom--and-Pr-ncipe---Multi-Tier-Framework--MTF--Survey
+
+Consumption of electricity by country
+https://statistics.cepal.org/portal/cepalstat/dashboard.html?indicator_id=1754&area_id=729&lang=en
+
+
+
+
