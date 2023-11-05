@@ -1,0 +1,291 @@
+,ADM1_EN,ADM2_EN
+0,Uasin Gishu,Ainabkoi
+1,Kericho,Ainamoi
+2,Nandi,Aldai
+3,Siaya,Alego Usonga
+4,Migori,Awendo
+5,Nakuru,Bahati
+6,Garissa,Balambala
+7,Mandera,Banissa
+8,Baringo,Baringo Central
+9,Baringo,Baringo North
+10,Baringo,Baringo South
+11,Kericho,Belgut
+12,Kisii,Bobasi
+13,Kisii,Bomachoge Borabu
+14,Kisii,Bomachoge Chache
+15,Bomet,Bomet Central
+16,Bomet,Bomet East
+17,Kisii,Bonchari
+18,Siaya,Bondo
+19,Nyamira,Borabu
+20,Busia,Budalangi
+21,Bungoma,Bumula
+22,Tana River,Bura
+23,Kericho,Buret
+24,Kakamega,Butere
+25,Busia,Butula
+26,Meru,Buuri
+27,Meru,Cental Imenti
+28,Mombasa,Changamwe
+29,Bomet,Chepalungu
+30,Trans Nzoia,Cherangany
+31,Nandi,Chesumei
+32,Garissa,Dadaab
+33,Nairobi,Dagoretti
+34,Garissa,Dujis
+35,Baringo,Eldama Ravine
+36,Wajir,Eldas
+37,Nairobi,Embakasi Central
+38,Nairobi,Embakasi East
+39,Nairobi,Embakasi North
+40,Nairobi,Embakasi South
+41,Nairobi,Embakasi West
+42,Nandi,Emgwen
+43,Vihiga,Emuhaya
+44,Narok,Emurua Dikirr
+45,Trans Nzoia,Endebess
+46,Garissa,Fafi
+47,Busia,Funyula
+48,Embu,Gachoka
+49,Tana River,Galole
+50,Kilifi,Ganze
+51,Tana River,Garsen
+52,Murang'a,Gatanga
+53,Kiambu,Gatundu North
+54,Kiambu,Gatundu South
+55,Siaya,Gem
+56,Kirinyaga,Gichugu
+57,Nakuru,Gilgil
+58,Kiambu,Githunguri
+59,Vihiga,Hamisi
+60,Homa Bay,Homa Bay
+61,Meru,Igembe Central
+62,Meru,Igembe North
+63,Meru,Igembe South
+64,Garissa,Ijara
+65,Kakamega,Ikolomani
+66,Isiolo,Isiolo North
+67,Isiolo,Isiolo South
+68,Mombasa,Jomvu
+69,Kiambu,Juja
+70,Kiambu,Kabete
+71,Homa Bay,Kabondo Kasipul
+72,Bungoma,Kabuchai
+73,West Pokot,Kacheliba
+74,Makueni,Kaiti
+75,Kajiado,Kajiado Central
+76,Kajiado,Kajiado East
+77,Kajiado,Kajiado North
+78,Kajiado,Kajiado South
+79,Kajiado,Kajiado West
+80,Kilifi,Kaloleni
+81,Nairobi,Kamukunji
+82,Murang'a,Kandara
+83,Bungoma,Kanduyi
+84,Murang'a,Kangema
+85,Machakos,Kangundo
+86,West Pokot,Kapenguria
+87,Uasin Gishu,Kapseret
+88,Homa Bay,Karachuonyo
+89,Nairobi,Kasarani
+90,Homa Bay,Kasipul
+91,Machakos,Kathiani
+92,Elgeyo-Marakwet,Keiyo North
+93,Elgeyo-Marakwet,Keiyo South
+94,Uasin Gishu,Kesses
+95,Kakamega,Khwisero
+96,Kiambu,Kiambaa
+97,Kiambu,Kiambu
+98,Nairobi,Kibra
+99,Makueni,Kibwezi East
+100,Makueni,Kibwezi West
+101,Nyeri,Kieni
+102,Murang'a,Kigumo
+103,Murang'a,Kiharu
+104,Kiambu,Kikuyu
+105,Narok,Kilgoris
+106,Kilifi,Kilifi North
+107,Kilifi,Kilifi South
+108,Nairobi,Kilimani
+109,Makueni,Kilome
+110,Bungoma,Kimilili
+111,Trans Nzoia,Kiminini
+112,Kwale,Kinango
+113,Nyandarua,Kinangop
+114,Nyandarua,Kipipiri
+115,Kericho,Kipkelion East
+116,Kericho,Kipkelion West
+117,Kirinyaga,Kirinyaga Central
+118,Mombasa,Kisauni
+119,Kisumu,Kisumu Central
+120,Kisumu,Kisumu East
+121,Kisumu,Kisumu West
+122,Kitui,Kitui Central
+123,Kitui,Kitui East
+124,Kitui,Kitui Rural
+125,Kitui,Kitui South
+126,Kitui,Kitui West
+127,Kisii,Kitutu Chache North
+128,Kisii,Kitutu Chache South
+129,Nyamira,Kitutu Masaba
+130,Bomet,Konoin
+131,Nakuru,Kuresoi North
+132,Nakuru,Kuresoi South
+133,Migori,Kuria East
+134,Migori,Kuria West
+135,Trans Nzoia,Kwanza
+136,Mandera,Lafey
+137,Garissa,Lagdera
+138,Laikipia,Laikipia East
+139,Laikipia,Laikipia North
+140,Laikipia,Laikipia West
+141,Marsabit,Laisamis
+142,Lamu,Lamu East
+143,Lamu,Lamu West
+144,Nairobi,Langata
+145,Kiambu,Lari
+146,Mombasa,Likoni
+147,Kakamega,Likuyani
+148,Kiambu,Limuru
+149,Turkana,Loima
+150,Vihiga,Luanda
+151,Kakamega,Lugari
+152,Kwale,Lunga Lunga
+153,Kakamega,Lurambi
+154,Tharaka-Nithi,Maara
+155,Machakos,Machakos Town
+156,Kilifi,Magarini
+157,Nairobi,Makadara
+158,Makueni,Makueni
+159,Kakamega,Malava
+160,Kilifi,Malindi
+161,Mandera,Mandera East
+162,Mandera,Mandera North
+163,Mandera,Mandera South
+164,Mandera,Mandera West
+165,Embu,Manyatta
+166,Murang'a,Maragwa
+167,Elgeyo-Marakwet,Marakwet East
+168,Elgeyo-Marakwet,Marakwet West
+169,Machakos,Masinga
+170,Busia,Matayos
+171,Nairobi,Mathare
+172,Murang'a,Mathioya
+173,Nyeri,Mathira
+174,Kwale,Matuga
+175,Kakamega,Matungu
+176,Machakos,Matungulu
+177,Machakos,Mavoko
+178,Makueni,Mbooni
+179,Baringo,Mogotio
+180,Uasin Gishu,Moiben
+181,Nakuru,Molo
+182,Nandi,Mosop
+183,Marsabit,Moyale
+184,Kwale,Msambweni
+185,Bungoma,Mt. Elgon
+186,Kisumu,Muhoroni
+187,Nyeri,Mukurweni
+188,Kakamega,Mumias East
+189,Kakamega,Mumias West
+190,Mombasa,Mvita
+191,Machakos,Mwala
+192,Taita Taveta,Mwatate
+193,Kirinyaga,Mwea
+194,Kitui,Mwingi East
+195,Kitui,Mwingi North
+196,Kitui,Mwingi West
+197,Nakuru,Naivasha
+198,Nakuru,Nakuru Town East
+199,Nakuru,Nakuru Town West
+200,Busia,Nambale
+201,Nandi,Nandi Hills
+202,Narok,Narok East
+203,Narok,Narok North
+204,Narok,Narok South
+205,Narok,Narok West
+206,Kakamega,Navakholo
+207,Nyandarua,Ndaragwa
+208,Homa Bay,Ndhiwa
+209,Kirinyaga,Ndia
+210,Tharaka-Nithi,Nithi
+211,Nakuru,Njoro
+212,Marsabit,North Horr
+213,Meru,North Imenti
+214,Nyamira,North Mugirango
+215,Kisumu,Nyakach
+216,Mombasa,Nyali
+217,Kisumu,Nyando
+218,Kisii,Nyaribari Chache
+219,Kisii,Nyaribari Masaba
+220,Migori,Nyatike
+221,Nyeri,Nyeri Town
+222,Nyandarua,Ol Jorok
+223,Nyandarua,Ol Kalou
+224,Nyeri,Othaya
+225,West Pokot,Pokot South
+226,Kilifi,Rabai
+227,Homa Bay,Rangwe
+228,Siaya,Rarieda
+229,Nakuru,Rongai
+230,Migori,Rongo
+231,Nairobi,Roysambu
+232,Nairobi,Ruaraka
+233,Kiambu,Ruiru
+234,Embu,Runyenjes
+235,Vihiga,Sabatia
+236,Trans Nzoia,Saboti
+237,Marsabit,Saku
+238,Samburu,Samburu East
+239,Samburu,Samburu North
+240,Samburu,Samburu West
+241,Kisumu,Seme
+242,Kakamega,Shinyalu
+243,Embu,Siakago
+244,West Pokot,Sigor
+245,Kericho,Sigowet/Soin
+246,Bungoma,Sirisia
+247,Bomet,Sotik
+248,Meru,South Imenti
+249,Kisii,South Mugirango
+250,Uasin Gishu,Soy
+251,Nairobi,Starehe
+252,Homa Bay,Suba North
+253,Homa Bay,Suba South
+254,Nakuru,Subukia
+255,Migori,Suna East
+256,Migori,Suna West
+257,Wajir,Tarbaj
+258,Taita Taveta,Taveta
+259,Busia,Teso North
+260,Busia,Teso South
+261,Nyeri,Tetu
+262,Tharaka-Nithi,Tharaka
+263,Kiambu,Thika Town
+264,Baringo,Tiaty
+265,Meru,Tigania East
+266,Meru,Tigania West
+267,Nandi,Tinderet
+268,Bungoma,Tongaren
+269,Uasin Gishu,Turbo
+270,Turkana,Turkana Central
+271,Turkana,Turkana East
+272,Turkana,Turkana North
+273,Turkana,Turkana South
+274,Turkana,Turkana West
+275,Siaya,Ugenya
+276,Siaya,Ugunja
+277,Migori,Uriri
+278,Vihiga,Vihiga
+279,Taita Taveta,Voi
+280,Wajir,Wajir East
+281,Wajir,Wajir North
+282,Wajir,Wajir South
+283,Wajir,Wajir West
+284,Bungoma,Webuye East
+285,Bungoma,Webuye West
+286,Nyamira,West Mugirango
+287,Nairobi,Westlands
+288,Taita Taveta,Wundanyi
+289,Machakos,Yatta
