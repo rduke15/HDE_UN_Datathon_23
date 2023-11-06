@@ -1,0 +1,11 @@
+,0,1
+0,0.85 < percent_mobile_money <= 0.91,982.4100057285997
+1,avg_typical_hours_elect_grid > 0.52,762.852625951061
+2,0.54 < percent_any_elect <= 0.71,395.1026096864242
+3,Population (2019 Census) <= 0.11,334.07628895663845
+4,avg_household_size > 0.41,-231.11361941510572
+5,towns_in_county <= 0.32,226.06207391665495
+6,percent_grid_connect <= 0.14,192.21571228210544
+7,roads_in_county <= 0.21,179.75033818327216
+8,0.06 < rivers_in_county <= 0.13,-144.8268451769384
+9,avg_electricity_use_grid <= 0.26,-143.93400413731464

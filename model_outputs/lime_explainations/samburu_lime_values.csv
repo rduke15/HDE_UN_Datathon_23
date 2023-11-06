@@ -1,0 +1,11 @@
+,0,1
+0,percent_mobile_money <= 0.72,-1218.628486369869
+1,percent_any_elect > 0.71,386.72579924051644
+2,avg_typical_hours_elect_grid <= 0.05,-363.43228670263255
+3,Area (km2) > 0.08,-324.3490403908436
+4,Population (2019 Census) <= 0.11,271.7102129610882
+5,0.32 < towns_in_county <= 0.33,-135.97929438294202
+6,0.21 < roads_in_county <= 0.44,-91.24414821526805
+7,0.14 < percent_grid_connect <= 0.20,-89.96654072598716
+8,hotel_locations > 0.15,-78.17844862997714
+9,rivers_in_county > 0.13,-76.45913993915521

@@ -1,0 +1,11 @@
+,0,1
+0,percent_mobile_money <= 0.72,-1208.9107862519459
+1,percent_any_elect > 0.71,414.536801756397
+2,avg_typical_hours_elect_grid <= 0.05,-347.3510006510774
+3,Area (km2) > 0.08,-317.8936231554916
+4,avg_household_size > 0.41,-219.78827422639873
+5,avg_electricity_use_grid <= 0.26,-139.7443972389132
+6,Percent_trees > 0.47,98.38890091969418
+7,Population (2019 Census) > 0.23,-97.85843193491743
+8,0.06 < avg_household_per_dwelling <= 0.15,-83.91603410561069
+9,0.14 < percent_grid_connect <= 0.20,-77.4226081350829

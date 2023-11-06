@@ -1,0 +1,11 @@
+,0,1
+0,percent_mobile_money <= 0.72,-1238.0074390120087
+1,avg_typical_hours_elect_grid > 0.52,862.4879161805464
+2,avg_electricity_use_grid <= 0.26,-172.2645513319404
+3,0.32 < percent_any_elect <= 0.54,-142.24296840589048
+4,0.32 < towns_in_county <= 0.33,-127.1771331852398
+5,rivers_in_county > 0.13,-105.03005089848632
+6,0.29 < avg_household_size <= 0.41,90.00322402276662
+7,hotel_locations > 0.15,-85.01101657198136
+8,0.14 < percent_grid_connect <= 0.20,-67.35788749298513
+9,not_grid_battery_pct > 0.16,51.94237608132281

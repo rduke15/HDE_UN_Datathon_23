@@ -1,0 +1,11 @@
+,0,1
+0,percent_mobile_money > 0.91,958.3168385819984
+1,percent_any_elect > 0.71,412.9025521435563
+2,Area (km2) <= 0.02,253.1684983298208
+3,0.05 < avg_typical_hours_elect_grid <= 0.27,-247.51590076702746
+4,rivers_in_county <= 0.04,211.47060457233678
+5,roads_in_county <= 0.21,106.4150857354026
+6,0.32 < towns_in_county <= 0.33,-96.45321398095979
+7,avg_household_size <= 0.20,88.7935782204483
+8,pct_own_dwelling <= 0.67,88.28807073336348
+9,total_percent_batteries <= 0.01,79.90636965322929

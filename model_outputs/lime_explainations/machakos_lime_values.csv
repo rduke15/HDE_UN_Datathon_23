@@ -1,0 +1,11 @@
+,0,1
+0,percent_mobile_money > 0.91,985.4751347479761
+1,avg_typical_hours_elect_grid > 0.52,752.9191689077705
+2,0.54 < percent_any_elect <= 0.71,414.9524599653551
+3,Percent_trees <= 0.15,-165.95174524102143
+4,0.32 < towns_in_county <= 0.33,-129.30344250791828
+5,avg_household_size <= 0.20,114.85108432867213
+6,0.02 < Area (km2) <= 0.08,-95.95404730390243
+7,percent_grid_connect > 0.45,-94.12173489566591
+8,avg_electricity_use_grid <= 0.26,-92.97520939033964
+9,hotel_locations <= 0.00,87.08194820339254

@@ -1,0 +1,11 @@
+,0,1
+0,avg_typical_hours_elect_grid > 0.52,789.7999435029254
+1,0.72 < percent_mobile_money <= 0.85,-746.4011965267392
+2,percent_any_elect <= 0.32,-623.2780236159074
+3,Percent_trees <= 0.15,-174.77469983927992
+4,0.32 < towns_in_county <= 0.33,-166.71582249391514
+5,avg_electricity_use_grid <= 0.26,-132.85318467526884
+6,percent_bank_account <= 0.44,-104.26584410593917
+7,0.06 < rivers_in_county <= 0.13,-98.29115254321087
+8,0.29 < avg_household_size <= 0.41,85.09346528435805
+9,0.31 < not_grid_solar_pct <= 0.39,-79.73185457316941

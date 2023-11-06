@@ -1,0 +1,11 @@
+,0,1
+0,0.85 < percent_mobile_money <= 0.91,992.2520276210264
+1,0.54 < percent_any_elect <= 0.71,411.27910200316126
+2,Area (km2) > 0.08,-342.698167355039
+3,avg_typical_hours_elect_grid <= 0.05,-315.7606277808914
+4,avg_household_size > 0.41,-208.18041985732512
+5,rivers_in_county > 0.13,-130.84608858122388
+6,avg_electricity_use_grid > 0.53,114.37502155563345
+7,0.20 < percent_grid_connect <= 0.45,-112.02258007594307
+8,0.21 < roads_in_county <= 0.44,-90.08199100607526
+9,0.01 < total_percent_batteries <= 0.04,-81.09985344772487

@@ -1,0 +1,11 @@
+,0,1
+0,percent_mobile_money > 0.91,967.8924529529961
+1,percent_any_elect > 0.71,413.956428348703
+2,0.27 < avg_typical_hours_elect_grid <= 0.52,-219.06607264462843
+3,0.02 < Area (km2) <= 0.02,173.88978985890265
+4,0.32 < towns_in_county <= 0.33,-98.68379976374842
+5,percent_grid_connect > 0.45,-91.48697457738096
+6,Population (2019 Census) > 0.23,-91.12458732389307
+7,roads_in_county > 0.56,-78.44244176995467
+8,0.31 < not_grid_solar_pct <= 0.39,-68.40471612436353
+9,percent_bank_account > 0.87,67.88830012039874
