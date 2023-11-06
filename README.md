@@ -9,8 +9,8 @@ We then use LIME to interpret the model outputs and provide insights into invest
 ## About this project:
 
 * This project is written in Python, and a requirements.txt file is provided.
-* The notebooks to create the model can be found in the notebooks repo.
-* The data the model uses is in the model repo.
-* The model outputs including pickle files of the model and min-max scalar are in the model_outputs folder
-* An app has been developed. The code for this can be found in the data_app folder and also in a separate folder
+* The notebooks to create the model can be found in the model_notebooks repo.
+* The data the model uses is in the datasets or EDA folders.
+* The model outputs including pickle files of the model and min-max scalar are in the model_outputs folder.
+* An app has been developed. The code for this can be found in the data_app folder and also in a separate repo.
 * The app is also available in a [separate repo](https://github.com/HazelMartindale/HDE_datathon_app) and deployed to be explored [here](https://hde-un-datathonapp.streamlit.app/)
